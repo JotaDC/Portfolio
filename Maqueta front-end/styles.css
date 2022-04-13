@@ -1,0 +1,65 @@
+
+.container-fluid{
+  background-color: black;
+
+}
+.encabezado{
+  background-color: black;
+}
+.encabezado .logoprogramar{
+  width: 30%;
+}
+.encabezado .logoministerio{
+  width: 50%;
+}
+.flotanteDerecha{
+  float: right;
+}
+.social{
+  float: right;
+  margin-top:5px;
+}
+.banner{
+
+  height: 300px;
+
+
+}
+.card{
+  background-color: #0f0f27;
+}
+.boton-menu{
+
+
+  margin-top: -60px;
+  padding-right:10px;
+}
+
+.nombre{
+  margin-left: 10px;
+  color:white;
+}
+.titulo{
+  margin-left: 10px;
+  color:white;
+}
+
+.foto-usuario{
+  border-radius: 50%;
+  width: 152px;
+  height: 152px;
+  margin-top: -80px;
+  padding-left:10px;
+
+
+}
+body{
+  color:white;
+}
+.progreso{
+
+  margin-left: 80px;
+  align-content:  center;
+}
+
+
